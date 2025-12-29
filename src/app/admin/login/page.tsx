@@ -39,7 +39,7 @@ export default function AdminLogin() {
     <div className="flex items-center justify-center min-h-screen bg-gray-100 w-screen">
       <div className="bg-white p-8 rounded-md shadow-lg w-full max-w-md mx-2">
         <h1 className="text-3xl font-bold text-blue-700 text-center mb-6">
-          Morent Admin Login
+          EliteWheels Admin Login
         </h1>
         <form onSubmit={handleLogin} className="space-y-6">
           <div>
